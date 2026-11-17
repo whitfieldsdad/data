@@ -1,5 +1,6 @@
 # TODO
 
+- Rename `datasets` directory to `data`
 - Investigate use of Git LFS for storing large files
 - Automatically visualize the structure of all CSV, JSON, JSONL, and Parquet files using `hodgepodge` and GraphViz
 - Source datasets from `public` layer of data lake
