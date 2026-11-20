@@ -2,18 +2,6 @@
 
 ## MITRE ATT&CK
 
-Excel workbooks:
-
-| Name | Path |
-|------|------|
-| TTPs | [`data/mitre-attack/ttps.xlsx`](data/mitre-attack/ttps.xlsx) |
-| Detection engineering | [`data/mitre-attack/detection-engineering.xlsx`](data/mitre-attack/detection-engineering.xlsx) |
-| Campaigns | [`data/mitre-attack/campaigns.xlsx`](data/mitre-attack/campaigns.xlsx) |
-| Intrusion sets | [`data/mitre-attack/intrusion-sets.xlsx`](data/mitre-attack/intrusion-sets.xlsx) |
-| Malware | [`data/mitre-attack/malware.xlsx`](data/mitre-attack/malware.xlsx) |
-| Tools | [`data/mitre-attack/tools.xlsx`](data/mitre-attack/tools.xlsx) |
-| Courses of action | [`data/mitre-attack/courses-of-action.xlsx`](data/mitre-attack/courses-of-action.xlsx) |
-
 Parquet files containing nodes:
 
 | Name | Path |
@@ -47,13 +35,6 @@ Parquet files containing edges:
 | Data components to TTPs | [`data/mitre-attack/data-components-to-ttps.parquet`](data/mitre-attack/data-components-to-ttps.parquet) |
 
 ## Vulnerability database
-
-Excel workbooks:
-
-| Name | Path |
-|------|------|
-| CVSS vectors | [`data/vulnerability-database/cvss-vectors.xlsx`](data/vulnerability-database/cvss-vectors.xlsx) |
-| EPSS scores | [`data/vulnerability-database/epss-scores.xlsx`](data/vulnerability-database/epss-scores.xlsx) |
 
 Parquet files:
 
